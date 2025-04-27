@@ -1,1 +1,44 @@
+# Trang Chủ - Xây dựng 347
+
+## Giới Thiệu
+Công ty Xây Dựng 347 chuyên cung cấp dịch vụ sửa chữa, cải tạo nhà trọn gói trên toàn quốc với hơn 10 năm kinh nghiệm. Chúng tôi cam kết:
+- Đội ngũ kỹ sư, thợ lành nghề
+- Thiết bị, máy móc hiện đại
+- Quy trình minh bạch, rõ ràng
+- Hỗ trợ 24/7 qua hotline
+
+## Báo Giá Nổi Bật
+- **Xây Nhà Trọn Gói**: Miễn phí GPXD - Thiết kế
+- **Xây Phần Thô**: Bao GPXD
+- **Sửa Chữa Nhà**: Miễn phí khảo sát
+- **Nhà Cấp 4**: Khuyến mãi đặc biệt
+
+## Bảng Giá Chi Tiết
+
+| Công Trình                     | Đơn Giá                          |
+| ------------------------------ | --------------------------------- |
+| Phần thô                        | 3.2 – 3.5 triệu/m²               |
+| Phần thô (Full House)           | 3.65 – 3.95 triệu/m²             |
+| Hoàn thiện                     | 1.8 – 3 triệu/m²                 |
+| Trọn gói (Chuẩn)               | 5.3 triệu/m²                     |
+| Trọn gói (Phong cách)          | 5.8 triệu/m²                     |
+| Trọn gói (Cao cấp)             | 6.3 triệu/m²                     |
+| Nhà 2 tầng (Trọn gói)         | 4.3 – 7 triệu/m²                 |
+| Nhà Cấp 4 (50–200 m²)          | 350 – 950 triệu/công trình      |
+| Thiết kế kiến trúc             | 50.000 – 120.000 VND/m²         |
+| Phòng trọ (Trọn gói)           | 2.6 – 3.5 triệu/m²               |
+| Nhà Xưởng (Không cầu trục)    | 1.3 – 1.5 triệu/m²               |
+| Nhà Xưởng (Có cầu trục)       | 1.8 – 2.0 triệu/m²               |
+| Nhà Xưởng (Trọn gói)          | 4.0 – 4.5 triệu/m²               |
+
+## Lợi Ích Khi Chọn Chúng Tôi
+- **Trang thiết bị đầy đủ**: Cung cấp thiết bị bếp, điện nước, trần thạch cao...
+- **Hồ sơ trọn gói**: Thiết kế kiến trúc, kết cấu, điện nước rõ ràng.
+- **Minh bạch chi phí**: Hợp đồng rõ ràng, không phát sinh.
+
+## Dịch Vụ Của Chúng Tôi
+- **Thi Công Nhà Phố**: Đảm bảo tiến độ, chất lượng hoàn hảo, thẩm mỹ cao.
+- **Thi Công Khách Sạn**: Giải pháp trọn gói từ thiết kế đến hoàn thiện nội thất.
+- **Thi Công Nhà Xưởng**: Kết cấu chắc chắn, tối ưu chi phí vận hành và bảo trì.
+- **Thi Công Nội Thất Nhà Phố**: Trang trí và lắp đặt nội thất, tối ưu không gian sống.
 
