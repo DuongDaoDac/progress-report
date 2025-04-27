@@ -1,1 +1,63 @@
+### Admin - News Relationship
++------------+
+|   Admin    |
++------------+
+| +AdminId: int     |
+| +Username: string |
+| +Password: string |
+| +FullName: string |
++------------+
+        |
+        | 1
+        |--- (n)
+        v
++------------+
+|    News    |
++------------+
+| +NewsId: int        |
+| +Title: string      |
+| +Content: string    |
+| +Image: string      |
+| +DateCreated: DateTime |
+| +AdminId: int       |
++------------+
+
+---
+
+### Contact
++--------------+
+|   Contact    |
++--------------+
+| +ContactId: int |
+| +Name: string   |
+| +Phone: string  |
+| +Email: string  |
+| +Message: string|
+| +DateSent: DateTime |
++--------------+
+
+---
+
+### PriceList
++----------------+
+|   PriceList    |
++----------------+
+| +PriceListId: int|
+| +ServiceName: string |
+| +Unit: string        |
+| +Price: decimal      |
+| +Note: string        |
++----------------+
+
+---
+
+### Service
++---------------+
+|   Service     |
++---------------+
+| +ServiceId: int|
+| +ServiceName: string |
+| +Description: string |
+| +Image: string       |
++---------------+
 
