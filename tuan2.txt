@@ -1,1 +1,53 @@
 
++-------------------+
+|     Services       |
++-------------------+
+| Id (PK)            |
+| Name               |
+| Description        |
+| CreatedAt          |
++-------------------+
+         |
+         | 1-n
+         |
++-------------------+
+|    PriceList       |
++-------------------+
+| Id (PK)            |
+| ServiceId (FK) ----|
+| Price              |
+| Note               |
+| CreatedAt          |
++-------------------+
+
++--------------------+
+|     News            |
++--------------------+
+| Id (PK)             |
+| Title               |
+| Content             |
+| CreatedAt           |
++--------------------+
+
++--------------------+
+|     Contact         |
++--------------------+
+| Id (PK)             |
+| FullName            |
+| Phone               |
+| Email               |
+| Message             |
+| CreatedAt           |
++--------------------+
+
++-------------------------+
+|      AdminAccount        |
++-------------------------+
+| Id (PK)                  |
+| UserName (Unique)        |
+| Password                 |
+| Email                    |
+| FullName                 |
+| CreatedAt                |
+| Role                     |
++-------------------------+
